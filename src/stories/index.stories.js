@@ -1,1 +1,1 @@
-export * from './Datatable/Datatable.stories';
+export * from './CraftTable/CraftTable.stories';
