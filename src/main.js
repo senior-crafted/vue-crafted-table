@@ -1,2 +1,2 @@
-export { default as DatatableExample } from './Datatable/DatatableExample.vue';
+export * from './CraftTable/index';
 export default {};
